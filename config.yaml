@@ -1,0 +1,10 @@
+symbol: "BTC"
+quote: "USDT"
+timeframes: ["1h", "4h", "1d"]
+start: "2024-01-01"
+end: null
+exchange: "binance"
+fetch_spot: true
+fetch_futures: true
+generate_html: true
+out_dir: "out"
